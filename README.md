@@ -1,2 +1,2 @@
 # JJT-Ticketing-System-SRS
-Authors: Janelle Ventura, 
+Authors: Janelle Ventura, Jorge Fonseca
